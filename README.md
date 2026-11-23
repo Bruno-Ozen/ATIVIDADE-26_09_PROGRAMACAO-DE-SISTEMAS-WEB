@@ -9,9 +9,9 @@ de entrada e complete a tabela:
 
   Algoritmo          Comparações   Trocas/Movimentações
   ---------------- ------------- ----------------------
-  Bubble Sort                    
-  Selection Sort                 
-  Insertion Sort                 
+  Bubble Sort            64                19
+  Selection Sort         11                 8
+  Insertion Sort         36                19
 
 ------------------------------------------------------------------------
 
