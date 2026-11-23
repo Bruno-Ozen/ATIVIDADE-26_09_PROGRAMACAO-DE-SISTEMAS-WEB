@@ -5,6 +5,7 @@ function bubbleSort(lista_numeros = []) {
 
   let qtd_comparacoes = 0;
   let qtd_trocas = 0;
+  
   for (let i = 0; i < lista_numeros.length - 1; i++) {
     for (let j = 0; j < lista_numeros.length - 1; j++) {
       if (lista_numeros[j] > lista_numeros[j + 1]) {
