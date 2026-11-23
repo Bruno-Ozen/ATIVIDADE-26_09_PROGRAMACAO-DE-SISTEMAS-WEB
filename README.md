@@ -25,14 +25,11 @@ ordenar os elementos do vetor?**
 
 Explique brevemente com suas próprias palavras.
 
+**Resposta:** O Bubble Sort acaba tendo muitas comparações porque ele age de forma muito bruta ao precisar comparar praticamente cada um com todos os outros. Isso é visível na quantidade de comparações, quando 64 não chega a estar tão longe assim de 81, que seria o tamanho da entrada (9 elementos) elevado ao quadrado. O Selection Sort acaba tendo menos comparações e movimentações no momento ele encontra o menor, e já coloca ele na posição definitiva trocando, daí não precisando mais ficar voltando nessas partes do vetor, uma vez que ali já é a posição definitiva dele. Por fim, o Insertion Sort quase preserva uma ordenação definitiva, porém quando ele encontra um menor ainda, tem que voltar e reajustar a estrutura antiga, trocando várias vezes nesse processo, bem como demandando comparação. Acaba sendo menos pior do que o Bubble Sort.
+
 ------------------------------------------------------------------------
 
 ## ANOTAÇÕES
 Aprendi algumas coisas sobre a sintaxe do Javascript.
 const -> Guarda qualquer tipo, mas não pode ser alterada
 let -> Igual o const, com o adicional de poder ser alterada
-
-## Sobre o uso de Inteligência Artificial Generativa
-A IA foi utilizada de apoio e pesquisa para manipular o HTML quando eu não sabia por que não estava funcionando, e também para fazer operações de código mais mecanicas, como atribuir uma classe a várias divs. Os modelos utilizados foram:
-- Google Gemini da barra de pesquisa do Google;
-- Github Copilot Chat gratuito.
