@@ -7,11 +7,11 @@ Atividade do dia 26/09/2026 da disciplina de Programação de Sistemas Web - Eng
 Após implementar os três algoritmos, execute-os utilizando o mesmo vetor
 de entrada e complete a tabela:
 
-  Algoritmo          Comparações   Trocas/Movimentações
-  ---------------- ------------- ----------------------
-  Bubble Sort            64                19
-  Selection Sort         11                 8
-  Insertion Sort         36                19
+| Algoritmo      | Comparações | Trocas/Movimentações |
+|----------------|------------:|---------------------:|
+| Bubble Sort    |          64 |                   19 |
+| Selection Sort |          11 |                    8 |
+| Insertion Sort |          36 |                   19 |
 
 ------------------------------------------------------------------------
 
@@ -30,6 +30,10 @@ Explique brevemente com suas próprias palavras.
 ------------------------------------------------------------------------
 
 ## ANOTAÇÕES
-Aprendi algumas coisas sobre a sintaxe do Javascript.
-const -> Guarda qualquer tipo, mas não pode ser alterada
-let -> Igual o const, com o adicional de poder ser alterada
+
+- Aprendi algumas coisas sobre a sintaxe do Javascript.
+- `const` -> Guarda qualquer tipo, mas não pode ser alterada.
+- `let` -> Igual o `const`, com o adicional de poder ser alterada.
+
+## USO DE INTELIGÊNCIA ARTIFICIAL GENERATIVA
+A IA foi utilizada para formatar a tabela desse README.md, e me ajudar ensinando a sintaxe da linguagem JavaScript que ainda estava conhecendo.
